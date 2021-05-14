@@ -1,0 +1,15 @@
+/Volumes/Transcend/Reactivities/Persistence/bin/Debug/net5.0/Persistence.deps.json
+/Volumes/Transcend/Reactivities/Persistence/bin/Debug/net5.0/Persistence.dll
+/Volumes/Transcend/Reactivities/Persistence/bin/Debug/net5.0/ref/Persistence.dll
+/Volumes/Transcend/Reactivities/Persistence/bin/Debug/net5.0/Persistence.pdb
+/Volumes/Transcend/Reactivities/Persistence/bin/Debug/net5.0/Domain.dll
+/Volumes/Transcend/Reactivities/Persistence/bin/Debug/net5.0/Domain.pdb
+/Volumes/Transcend/Reactivities/Persistence/obj/Debug/net5.0/Persistence.csprojAssemblyReference.cache
+/Volumes/Transcend/Reactivities/Persistence/obj/Debug/net5.0/Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Transcend/Reactivities/Persistence/obj/Debug/net5.0/Persistence.AssemblyInfoInputs.cache
+/Volumes/Transcend/Reactivities/Persistence/obj/Debug/net5.0/Persistence.AssemblyInfo.cs
+/Volumes/Transcend/Reactivities/Persistence/obj/Debug/net5.0/Persistence.csproj.CoreCompileInputs.cache
+/Volumes/Transcend/Reactivities/Persistence/obj/Debug/net5.0/Persistence.csproj.CopyComplete
+/Volumes/Transcend/Reactivities/Persistence/obj/Debug/net5.0/Persistence.dll
+/Volumes/Transcend/Reactivities/Persistence/obj/Debug/net5.0/ref/Persistence.dll
+/Volumes/Transcend/Reactivities/Persistence/obj/Debug/net5.0/Persistence.pdb
